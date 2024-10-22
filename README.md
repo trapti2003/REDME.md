@@ -23,11 +23,11 @@
 <p align="left">
 <a href="https://github.com/Explorer-O7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Explorer-O7" height="30" width="40" /></a>
 <a href="https://twitter.com/_Explorer_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_Explorer_07" height="30" width="40" /></a>
+<a href="https://discord.gg/SSxNxenj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SSxNxenj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubham-kushwah-30816424b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kushwah-30816424b" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/shubhamkushwa_g1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/shubhamkushwa_g1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/kushwahs963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/kushwahs963" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/user/shubhamkuc2ui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/shubhamkuc2ui" height="30" width="40" /></a>
-<a href="https://discord.gg/SSxNxenj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SSxNxenj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
