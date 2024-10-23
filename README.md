@@ -1,4 +1,4 @@
-<h1 align="center">Heyyo 👋, I'm Shubham Kushwah</h1>
+<h1 align="center">Heyyo <img src="img/Hi.gif" width="32" />, I'm Shubham Kushwah</h1>
 <h3 align="center">A Passionate Tech Enthusiast & Emerging Full Stack Developer from Madhyapradesh, India.</h3>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&size=25&letterSpacing=1px&duration=4500&pause=1000&color=D249F7&width=705&lines=Let's+talk+about+Programming+Concepts;Let's+talk+about+Data+Structures+%26+Algorithms;Let's+talk+about+Full+Stack+Web+Development)
