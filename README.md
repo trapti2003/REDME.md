@@ -84,9 +84,9 @@
 <!-- My Profile Stats -->
 <div align=center>
   <h2>📊 Statistics 📊</h2>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=explorer-o7&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats" />
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=explorer-o7&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=explorer-o7&count_private=true&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" alt="Readme Stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=explorer-o7&count_private=true&theme=neon-dark&border_radius=10" alt="Streak Stats"/>
   <br/>
   <!-- Top Language Chart -->
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=explorer-o7&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=explorer-o7&hide=HTML&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
 </div>
