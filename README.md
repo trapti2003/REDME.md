@@ -56,7 +56,10 @@
     <img src="https://img.shields.io/badge/Leetcode-FFAA33?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/shubhamkuc2ui" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksForGeeks-60FA55?style=for-the-badge&logo=geeksforgeeks&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/GeeksForGeeks-269933?style=for-the-badge&logo=geeksforgeeks&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://naukri.com/code360/profile/1ecaf042-64ae-4e34-b029-e834c6c1a16f" target="_blank">
+    <img src="https://img.shields.io/badge/Code360-303030?style=for-the-badge&logo=codingninjas&logoColor=orange" target="_blank" />
   </a>
 </div>
 <br/>
