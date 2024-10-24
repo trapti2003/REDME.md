@@ -41,4 +41,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=explorer-o7&theme=dark" alt="explorer-o7" /></p>
 
-![Snake animation](https://github.com/Explorer-O7/Explorer-O7/raw/output/dist/snake.svg)
+![Snake animation](https://github.com/explorer-o7/explorer-o7/raw/output/dist/snake.svg)
