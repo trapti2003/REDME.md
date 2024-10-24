@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=explorer-o7&label=Visitors&color=dc78dc&style=plastic" alt="explorer-o7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=explorer-o7" alt="explorer-o7" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **MERN Stack**
 
@@ -20,6 +20,11 @@
 - 📫 How to reach me **shubhamkushwah.official@gmail.com**
 
 - ⚡ Fun fact: **I want to explore, learn, & innovate.**
+
+- 🌐 Let's connect and grow together.
+
+<br/><br/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=explorer-o7" alt="explorer-o7" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
