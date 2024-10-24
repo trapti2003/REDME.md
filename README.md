@@ -6,7 +6,7 @@
 
 <!-- Dynamic Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Arial+Rounded+MT&size=35&width=750&height=70&duration=4000&pause=1000&color=D940FF&lines=Let%27s+talk+about+Programming+Concepts;Let%27s+talk+about+Data+Structures+%26+Algorithm;Let%27s+talk+about+Full+Stack+Web+Development" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Arial+Rounded+MT&size=30&width=425&height=70&duration=4000&pause=1000&color=D940FF&lines=Programming+Concepts;Data+Structures+%26+Algorithms;Full+Stack+Web+Development" alt="Typing Animation" />
 </div>
 <br/>
 
@@ -34,7 +34,7 @@
 <!-- Social Links -->
 <div align="center"> 
   <a href="mailto:shubhamkushwah.official@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D0D0D0?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-D6D6D6?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://github.com/explorer-o7">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
@@ -77,7 +77,7 @@
 <!-- My Contibution Chart With Snake Animation -->
 <div align="center">
   <h2>🐍 My Contribution Chart 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/explorer-o7/explorer-o7/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Chart Snake Animation" src="https://raw.githubusercontent.com/explorer-o7/explorer-o7/output/github-contribution-grid-snake.svg" />
 </div>
 <br/><br/>
 
