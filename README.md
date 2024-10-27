@@ -25,9 +25,9 @@
 
 - 💬 Ask me about **Web-Dev and Data Structures & Algorithms**
 
-- 📫 How to reach me **shubhamkushwah.official@gmail.com**
-
 - ⚡ Focus: **I want to explore, learn, & innovate.**
+
+- 📫 🇮🇳 **Native** | 🇬🇧 **Proficient**
 
 - 🌐 Let's connect and grow together.
 <br/>
@@ -94,3 +94,5 @@
   <!-- Top Language Chart -->
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=explorer-o7&hide=HTML&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
 </div>
+<br/><br/>
+<img src="./img/banner.png" />
