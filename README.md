@@ -27,7 +27,7 @@
 
 - ⚡ Focus: **I want to explore, learn, & innovate.**
 
-- 📫 🇮🇳 **Native** | 🇬🇧 **Proficient**
+- 📫 Mother tounge: **Hindi** | Proficient at: **English**
 
 - 🌐 Let's connect and grow together.
 <br/>
