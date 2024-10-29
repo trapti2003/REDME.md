@@ -28,6 +28,8 @@
 - ⚡ Focus: **I want to explore, learn, & innovate.**
 
 - 📫 Mother tounge: **Hindi** | Proficient at: **English**
+
+- 🌐 Let's **connect** and **grow** together.
 <br/>
 
 <!-- Social Links -->
