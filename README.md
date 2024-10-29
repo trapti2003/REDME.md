@@ -1,4 +1,4 @@
-<!-- This readme markdown is inpired by https://github.com/salesp07 -->
+<!-- This readme markdown is inspired by https://github.com/salesp07 -->
 <!-- Dynamic Profile Views Count -->
 <img align="right" src="https://komarev.com/ghpvc/?username=explorer-o7&label=Visitor%27s+Count&color=d940ff&style=plastic" alt="explorer-o7" />
 <!-- My Introduction -->
@@ -28,8 +28,6 @@
 - ⚡ Focus: **I want to explore, learn, & innovate.**
 
 - 📫 Mother tounge: **Hindi** | Proficient at: **English**
-
-- 🌐 Let's connect and grow together.
 <br/>
 
 <!-- Social Links -->
