@@ -1,6 +1,6 @@
 <!-- This readme markdown is inspired by https://github.com/salesp07 -->
 <!-- Dynamic Profile Views Count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=explorer-o7&label=Visitor%27s+Count&color=d940ff&style=plastic" alt="explorer-o7" />
+<img align="right" src="https://komarev.com/ghpvc/?username=explorer-o7&label=Visit+Count&color=d940ff&style=plastic" alt="explorer-o7" />
 <!-- My Introduction -->
 <h1 align="center">Heyyo <img src="./img/hand_wave.gif" width="32" />, I'm Shubham Kushwah</h1>
 <h3 align="center">A Passionate Tech Enthusiast & Emerging Full Stack Developer from Madhyapradesh, India.</h3>
