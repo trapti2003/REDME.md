@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend, Backend**
 
-- 🤝 I’m looking for help with **--**
+- 🤝 I’m looking for help with **MERN Stack**
 
 - 💬 Ask me about **Web-Dev and Data Structures & Algorithms**
 
