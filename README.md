@@ -12,7 +12,7 @@
 <br/>
 
 <!-- Programmer GIF -->
-<img align="right" alt="Coding" width="380" src="./img/programmer.gif" />
+<img align="right" alt="Coding" width="400" src="./img/programmer.gif" />
 
 <!-- Details About Me -->
 - 🔭 I’m currently working on **MERN Stack**
