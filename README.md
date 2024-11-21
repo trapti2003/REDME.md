@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Programmer GIF -->
-<img align="right" alt="Coding" width="400" src="./img/programmer.gif" />
+<img align="right" alt="Programmer" width="400" src="./img/programmer.gif" />
 
 <!-- Details About Me -->
 - 🔭 I’m currently working on **MERN Stack**
@@ -95,9 +95,9 @@
 </div>
 <br/><br/>
 
-<!-- Profile Banner -->
+<!-- Banner -->
 <hr/>
 <img align="center" alt="Banner" src="./img/banner.png" />
 
 <!-- Footer -->
-<img align="center" alt="Footer" arc="./img/footer.svg" />
+<img align="center" alt="Footer" src="./img/footer.svg" />
