@@ -1,4 +1,3 @@
-<!-- This readme markdown is inspired by https://github.com/salesp07 -->
 <!-- Dynamic Profile Views Count -->
 <img align="right" src="https://komarev.com/ghpvc/?username=explorer-o7&label=Visit+Count&color=d940ff&style=plastic" alt="explorer-o7" />
 <!-- My Introduction -->
@@ -81,7 +80,7 @@
 <!-- My Contibution Chart With Snake Animation -->
 <div align="center">
   <h2>🐍 My Contributions🐍</h2>
-  <img alt="Contribution Chart Snake Animation" src="https://raw.githubusercontent.com/explorer-o7/explorer-o7/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Chart Snake Animation" src="https://raw.githubusercontent.com/explorer-o7/explorer-o7/output/github-contribution-grid-snake-dark.svg" />
 </div>
 <br/><br/>
 
@@ -95,6 +94,10 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=explorer-o7&hide=HTML&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
 </div>
 <br/><br/>
+
 <!-- Profile Banner -->
 <hr/>
 <img align="center" alt="Banner" src="./img/banner.png" />
+
+<!-- Footer -->
+<img align="center" alt="Footer" arc="./img/footer.svg" />
