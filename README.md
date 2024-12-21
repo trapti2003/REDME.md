@@ -46,11 +46,6 @@
 </div>
 <br/>
 
-<!-- GitHub Trophies Card -->
-<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trapt2003" alt="trapti2003" /></a> </div>
-<hr/>
-<br/>
-
 <!-- Tools & Technologies -->
 <div align="center">
     <h2>⚒️ Tools & Technologies ⚒️</h2>
@@ -59,12 +54,7 @@
 </div>
 <br/><br/>
 
-<!-- My Profile Stats -->
-<div align=center>
-  <h2>📊 Statistics 📊</h2>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=explorer-o7&count_private=true&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" alt="Readme Stats" />
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=trapti2003&count_private=true&theme=neon-dark&border_radius=10" alt="Streak Stats"/>
-  <br/>
+
   <!-- Top Language Chart -->
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=trapt2003&hide=HTML&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
 </div>
