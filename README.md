@@ -54,9 +54,6 @@
 </div>
 <br/><br/>
 
-
-  <!-- Top Language Chart -->
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=trapt2003&hide=HTML&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
 </div>
 <br/><br/>
 
