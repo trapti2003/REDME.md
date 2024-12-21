@@ -39,30 +39,15 @@
   <a href="https://linkedin.com/in/shubham-kushwah-30816424b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://x.com/_explorer_07" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=x&logoColor=black" target="_blank" />
-  </a>
-  <a href="https://discord.com/shubham_75" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
-  </a>
+  <a href="https://x.com/@trapti_gupta123" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=x&logoColor=black" target="_blank" </a>
   <br/>
-  <a href="https://hackerrank.com/profile/shubhamkushwa_g1" target="_blank">
-    <img src="https://img.shields.io/badge/Hackerrank-31F565?style=for-the-badge&logo=hackerrank&logoColor=black" target="_blank" />
-  </a>
-  <a href="https://leetcode.com/u/kushwahs963" target="_blank">
-    <img src="https://img.shields.io/badge/Leetcode-FFAA33?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/shubhamkuc2ui" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksForGeeks-269933?style=for-the-badge&logo=geeksforgeeks&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://naukri.com/code360/profile/1ecaf042-64ae-4e34-b029-e834c6c1a16f" target="_blank">
-    <img src="https://img.shields.io/badge/Code360-303030?style=for-the-badge&logo=codingninjas&logoColor=orange" target="_blank" />
-  </a>
+  
 </div>
 <br/>
 
 <!-- GitHub Trophies Card -->
-<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=explorer-o7" alt="explorer-o7" /></a> </div>
+<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trapt2003" alt="trapti2003" /></a> </div>
 <hr/>
 <br/>
 
@@ -77,7 +62,7 @@
 <!-- My Contibution Chart With Snake Animation -->
 <div align="center">
   <h2>🐍 My Contributions🐍</h2>
-  <img alt="Contribution Chart Snake Animation" src="https://raw.githubusercontent.com/explorer-o7/explorer-o7/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Chart Snake Animation" src="https://raw.githubusercontent.com/trapti2003/trapti2003/output/github-contribution-grid-snake.svg" />
 </div>
 <br/><br/>
 
@@ -85,10 +70,10 @@
 <div align=center>
   <h2>📊 Statistics 📊</h2>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=explorer-o7&count_private=true&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" alt="Readme Stats" />
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=explorer-o7&count_private=true&theme=neon-dark&border_radius=10" alt="Streak Stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=trapti2003&count_private=true&theme=neon-dark&border_radius=10" alt="Streak Stats"/>
   <br/>
   <!-- Top Language Chart -->
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=explorer-o7&hide=HTML&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=trapt2003&hide=HTML&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
 </div>
 <br/><br/>
 
