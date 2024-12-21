@@ -10,9 +10,6 @@
 </div>
 <br/>
 
-<!-- Programmer GIF -->
-<img align="right" alt="Programmer" width="400" src="./img/programmer.gif" />
-
 <!-- Details About Me -->
 - 🔭 I’m currently working on **MERN Stack**
 
