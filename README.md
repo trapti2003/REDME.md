@@ -53,9 +53,8 @@
     <img src="https://skillicons.dev/icons?i=java,python,mongodb,express,react,nodejs,firebase,mysql,linux,googlecloud" />
 </div>
 <br/><br/>
-
 </div>
-<br/><br/>
+<br/>
 
 <!-- Banner -->
 <hr/>
