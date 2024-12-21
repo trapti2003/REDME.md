@@ -6,7 +6,7 @@
 
 <!-- Dynamic Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Arial+Rounded+MT&size=30&width=425&height=70&duration=4000&pause=1000&color=D940FF&lines=Programming+Concepts;Data+Structures+%26+Algorithms;Full+Stack+Web+Development" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Arial+Rounded+MT&size=30&width=425&height=70&duration=4000&pause=1000&color=D940FF&lines=Programming+Concepts;Full+Stack+Web+Development" alt="Typing Animation" />
 </div>
 <br/>
 
@@ -36,7 +36,7 @@
   <a href="https://github.com/trapti2003">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/shubham-kushwah-30816424b" target="_blank">
+ <a href="https://www.linkedin.com/in/trapti-gupta-b89696253 " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://x.com/@trapti_gupta123" target="_blank">
