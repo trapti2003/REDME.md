@@ -1,7 +1,7 @@
 <!-- Dynamic Profile Views Count -->
 <img align="right" src="https://komarev.com/ghpvc/?username=explorer-o7&label=Visit+Count&color=d940ff&style=plastic" alt="explorer-o7" />
 <!-- My Introduction -->
-<h1 align="center">Heyyo <img src="./img/waving_hand.png" width="36" />, I'm Trapti Gupta</h1>
+<h1 align="center">Hello <img src="./img/waving_hand.png" width="36" />, I'm Trapti Gupta</h1>
 <h3 align="center">A Passionate Tech Enthusiast & Emerging Full Stack Developer from Madhyapradesh, India.</h3>
 
 <!-- Dynamic Typing Animation -->
